@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [OwaspXMulearn Bootcamp](https://github.com/spikedbug69/Cyber-Security-Bootcamp-Mulearn-OWASP-Kerala)
 
-- 🌱 I’m currently learning **Cybersecurity methodologies & tools (Pentesting, Bug Bounty) ,DevOps & Scalable Backend Deployment (Docker, Vercel, Railway) ,Machine Learning basics for future cybersecurity applications ,Japanese (as a side learning goal 🇯🇵)**
+- 🌱 I’m currently learning **Cybersecurity methodologies & tools (Pentesting, Bug Bounty) ,DevOps & Scalable Backend Deployment (Docker, Vercel, Railway) ,Machine Learning basics for future cybersecurity applications, UI/UX abd Design ,Japanese (as a side learning goal 🇯🇵)**
 
 - 💬 Ask me about **Pentesting & Bug Bounty basics ,Linux tools for security**
 
